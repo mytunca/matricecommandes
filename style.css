@@ -1,0 +1,21 @@
+body {
+  background: #f1f2f4;
+}
+
+table, tr, th, td {
+  border: solid 1px;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 5px;
+
+}
+
+th {
+  background-color: grey;
+}
+
+select {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
